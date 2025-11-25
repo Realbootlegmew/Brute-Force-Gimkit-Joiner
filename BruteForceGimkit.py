@@ -38,6 +38,6 @@ while True:
                 pyautogui.click()
                 break
             except pyautogui.ImageNotFoundException:
-
                 time.sleep(0)
+
 
