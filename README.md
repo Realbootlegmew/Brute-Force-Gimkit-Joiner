@@ -10,6 +10,8 @@ If you're on Windows, it is recommended to use .pyw instead of the standard .py 
 
 **If the script doesn't stop running, move your cursor to the bottom left to forcefully stop it.**
 
+**This script works best during school hours.**
+
 _Read the description below for setting up the script and its modules._
 
 
