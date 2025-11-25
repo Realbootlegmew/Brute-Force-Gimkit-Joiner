@@ -16,7 +16,7 @@ while True:
         if Location:
             print("Attempt was successful.")
             break
-    except pyautogui.ImageNotFoundException: # If the name prompt is not found, the code runs code runs brute force
+    except pyautogui.ImageNotFoundException: # If the name prompt is not found, the code runs brute force
 
         while True:
             try:
@@ -38,4 +38,5 @@ while True:
                 pyautogui.click()
                 break
             except pyautogui.ImageNotFoundException:
+
                 time.sleep(0)
