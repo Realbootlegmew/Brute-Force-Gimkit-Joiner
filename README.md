@@ -8,7 +8,7 @@ Download the script here:
 
 If you're on Windows, it is recommended to use .pyw instead of the standard .py to ensure the window won't interrupt the script. If you're on Linux, use PyInstaller or a Linux-specific packaging tool (like creating a .deb package) to prevent the window from appearing. Or if you're on MacOS, use PyInstaller with the --windowed flag to create a standard .app bundle.
 
-Read the description below for setting up the script and its modules.
+_Read the description below for setting up the script and its modules._
 
 ## Installation of Python and Modules
 Be sure to have Python installed onto your device, if not, download it from their official website:
