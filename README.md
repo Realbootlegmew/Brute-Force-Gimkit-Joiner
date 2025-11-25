@@ -48,6 +48,7 @@ You will need to contain these 3 images for the script to function correctly; yo
 <img width="500" height="64" alt="Join" src="https://github.com/user-attachments/assets/1761bd7d-0bc8-4af8-baf5-438c1b383c0a" />
 <img width="162" height="44" alt="YourName" src="https://github.com/user-attachments/assets/5d3df300-d33c-42d5-8f01-9d2e52a2bf19" />
 
+[Python_Images.zip](https://github.com/user-attachments/files/23757660/Python_Images.zip)
 
 If you chose to take screenshots, crop them similarly to the images above:
  _https://www.gimkit.com/join_
