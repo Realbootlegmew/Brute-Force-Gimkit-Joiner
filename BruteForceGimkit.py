@@ -11,7 +11,7 @@ GameCode = str(Home / "Desktop" / "Python_Images" / "GameCode.png")
 YourName = str(Home / "Desktop" / "Python_Images" / "YourName.png")
 
 while True:
-    try:
+    try: 
         Location = pyautogui.locateOnScreen(YourName, confidence=0.8) # Looks for name prompt, adjust confidence if needed
         if Location:
             print("Attempt was successful.")
@@ -39,6 +39,7 @@ while True:
                 break
             except pyautogui.ImageNotFoundException:
                 time.sleep(0)
+
 
 
 
