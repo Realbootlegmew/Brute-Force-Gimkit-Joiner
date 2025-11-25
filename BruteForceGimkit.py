@@ -12,7 +12,7 @@ YourName = str(Home / "Desktop" / "Python_Images" / "YourName.png")
 
 while True:
     try:
-        Location = pyautogui.locateOnScreen(YourName, confidence=0.8) # Looks for name prompt
+        Location = pyautogui.locateOnScreen(YourName, confidence=0.8) # Looks for name prompt, adjust confidence if needed
         if Location:
             print("Attempt was successful.")
             break
@@ -20,7 +20,7 @@ while True:
 
         while True:
             try:
-                Location = pyautogui.locateCenterOnScreen(GameCode, confidence=0.8) # Looks for Game Code
+                Location = pyautogui.locateCenterOnScreen(GameCode, confidence=0.8) # Looks for Game Code, adjust confidence if needed
                 x, y = Location
                 pyautogui.moveTo(x, y, duration=0)
                 pyautogui.click()
@@ -32,12 +32,13 @@ while True:
   
         while True:
             try:
-                Location = pyautogui.locateCenterOnScreen(Join, confidence=0.8) # Looks for Join Button
+                Location = pyautogui.locateCenterOnScreen(Join, confidence=0.8) # Looks for Join Button, adjust confidence if needed
                 x, y = Location
                 pyautogui.moveTo(x, y, duration=0)
                 pyautogui.click()
                 break
             except pyautogui.ImageNotFoundException:
                 time.sleep(0)
+
 
 
