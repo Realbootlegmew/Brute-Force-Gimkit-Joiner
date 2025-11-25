@@ -74,3 +74,7 @@ If you're on Windows, it is recommended to use _.pyw_ instead of the standard _.
 
 Finally, go to the Gimkit Join screen and run the script—everything should work according to plan:
  _https://www.gimkit.com/join_
+
+ ## The Script in Action
+
+ https://github.com/user-attachments/assets/758f0037-fce7-4553-8e5e-7524a7d29cea
