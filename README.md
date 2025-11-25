@@ -8,7 +8,7 @@ Download the script here:
 
 If you're on Windows, it is recommended to use .pyw instead of the standard .py to ensure the window won't interrupt the script. If you're on Linux, use PyInstaller or a Linux-specific packaging tool (like creating a .deb package) to prevent the window from appearing. Or if you're on MacOS, use PyInstaller with the --windowed flag to create a standard .app bundle.
 
-**If the script doesn't stop running, move your cursor to the bottom left to forcefully stop it.**
+**If the script doesn't stop running, move your cursor to the bottom left edge to forcefully stop it.**
 
 **This script works best during school hours.**
 
