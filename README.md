@@ -14,8 +14,6 @@ Download the script here:
 
 **Change the paths inside of the script to match the location of your images! If you don't do this step, the script won't work!**
 
-If you're on Windows, it is recommended to use .pyw instead of the standard .py to ensure the window won't interrupt the script. If you're on Linux, use PyInstaller or a Linux-specific packaging tool (like creating a .deb package) to prevent the window from appearing. Or if you're on MacOS, use PyInstaller with the --windowed flag to create a standard .app bundle.
-
 **This script works best during school hours.**
 
 _Read the description below for setting up the script and its modules._
@@ -68,8 +66,6 @@ This is another **optional** step: you can place all of the images inside of a f
 
 Now download the script:
 [BruteForceGimkitV2.py](https://github.com/user-attachments/files/23760551/BruteForceGimkitV2.py)
-
-If you're on Windows, it is recommended to use _.pyw_ instead of the standard _.py_ to ensure the window won't interrupt the script. If you're on Linux, use PyInstaller or a Linux-specific packaging tool (like creating a .deb package) to prevent the window from appearing. Or if you're on MacOS, use PyInstaller with the _--windowed_ flag to create a standard _.app_ bundle.
 
 
 ## **_!!IMPORTANT STEPS!!_**
